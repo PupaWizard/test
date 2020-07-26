@@ -1,0 +1,18 @@
+/* コメントアウト */
+html {
+  font-family: sans-serif;
+}
+
+body {
+  color: red;
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+/* 「.○○」はclassセレクタ、複数の箇所を指定して編集することができる */
